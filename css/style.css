@@ -438,7 +438,15 @@
 			padding: 0;
 		}
 
+		.innertext {
+			width: 65%;
+			margin: 0 auto;
+		}
 
+		.innertext2 {
+			width: 75%;
+			margin: 0 auto;
+		}
 /* Feature */
 
 	.feature-grid {
@@ -1221,6 +1229,16 @@
 
 	body.is-touch .wrapper.style3 {
 		background-attachment: scroll;
+	}
+
+	.schedule-list1{
+		text-align: left;
+		width: 50%;
+	}
+
+	.schedule-list2{
+		text-align: right;
+		width: 50%;
 	}
 
 /* Footer */
