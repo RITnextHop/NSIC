@@ -447,6 +447,14 @@
 			width: 75%;
 			margin: 0 auto;
 		}
+
+		#prizelist {
+			text-align:left;
+		}
+
+		#contactlist {
+			text-align:left;
+		}
 /* Feature */
 
 	.feature-grid {
@@ -1232,7 +1240,7 @@
 	}
 
 	.schedule-list1{
-		
+
 		text-align: left;
 		float: left;
 	}
