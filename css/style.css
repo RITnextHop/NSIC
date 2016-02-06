@@ -1140,6 +1140,10 @@
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
 		background-image: url("images/overlay.png"), url("../images/banner.jpg");
+        /*
+         * ©2013 - FireXOnline
+         * http://firexonline.com/images/ongard2.jpg
+         */
 		background-position: center top;
 		background-size: cover;
 		line-height: 1.75;
@@ -1174,7 +1178,12 @@
 	#spbanner {
 		padding: 16em 0 13em 0;
 		background-attachment: fixed;
-		background-image: url("images/overlay.png"), url("../images/spbanner.jpg");
+		background-image: url("images/overlay.png"), url("../images/datacenterwork.jpg");
+		/*
+		 *	©2010 - Leonard Rizzi
+		 *	Attribution-ShareAlike 2.0 Generic (CC BY-SA 2.0)
+		 *	https://www.flickr.com/photos/stars6/4381851322/
+		 */
 		background-position: center top;
 		background-size: cover;
 		line-height: 1.75;
@@ -1222,7 +1231,12 @@
 
 		.wrapper.style3 {
 			background-attachment: fixed;
-			background-image: url("images/overlay.png"), url("../images/banner.jpg");
+			background-image: url("images/overlay.png"), url("../images/information.jpg");
+			/*
+			 *	©2009 - John McStravick
+			 *	Attribution 2.0 Generic (CC BY 2.0)
+			 *	https://www.flickr.com/photos/schluesselbein/4157426778
+			 */
 			background-position: center center;
 			background-size: cover;
 		}
